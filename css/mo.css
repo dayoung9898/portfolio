@@ -1,0 +1,102 @@
+@media (max-width:899px){
+    /* main{
+        padding: 0 20px;
+        overflow: hidden;
+    } */
+    .nav .tit{
+        font-size: 12px;
+    }
+    .s1{
+        padding: 0 20px;
+        overflow: hidden;
+    }
+    .s1 .s1_wrap{
+        display: block;
+    }
+    .s1 .s1_wrap .con{
+        width: 100%;
+        max-width: 320px;
+        margin: 0 auto;
+    }
+    .s1 .s1_wrap .pro{
+        width: 30%;
+        min-width: 320px;
+        margin: 0 auto;
+        padding: 0;
+    }
+    .s1 .s1_wrap .pro img{
+        width: 100%;
+        min-width: 320px;
+    }
+    
+    .s1 .s1_wrap .con .col_1 .pro_txt,
+    .s1 .s1_wrap .con .col_1 .info,
+    .s1 .s1_wrap .con .col_2 .skill,
+    .s1 .s1_wrap .con .col_2 .edu{
+        width: 100%;
+        margin-top: 10%;
+    }
+    .s1 .s1_wrap .con .col_2 .edu .round{
+        max-width: calc(100% - 80px);
+    }
+    .s1 .s1_wrap .con .col_2 .edu .item{
+        width: 100%;
+    }
+    .s1 .s1_wrap .con .col_2 .edu .item .box p{
+        font-size: 12px;
+    }
+
+    .s2{
+        padding-top: 0;
+    }
+    .s2 .s2_wrap .wh_box{
+        width: 100%;
+        padding: 20px;
+    }
+    .s2 .s2_wrap .wh_box h3{
+        font-size: 28px;
+    }
+    .s2 .s2_wrap .wh_box .key h4{
+        font-size: 16px;
+    }
+    .s2 .s2_wrap .bl_box{
+        width: 100%;
+    }
+    .s3 .s3_wrap .con .item{
+        display: block;
+    }
+    .s3 .s3_wrap .con .inner{
+        padding: 0 20px;
+    }
+    .s3 .s3_wrap .con .item .min_txt{
+        margin-bottom: 20px;
+    }
+    .s3 .s3_wrap .con .item .in_txt {
+        max-width: calc(100%);
+    }
+    .s3 .s3_wrap .con .item .col_box{
+        width: 60px;
+        height: 60px;
+    }
+    .s3 .s3_wrap .con .item .col_box:nth-child(1){
+        width: 140px;
+    }
+    .s3 .s3_wrap .con .intel_pix{background-image: url(../imges/intel_back_mo.png);}
+    .s3 .s3_wrap .con .ash_pix{background-image: url(../imges/ashley_back_mo.png);}
+    .s3 .s3_wrap .con .gim_pix{background-image: url(../imges/gimhae_back_mo.png);}
+
+    .s3 .s3_wrap .con .intel_pix img,
+    .s3 .s3_wrap .con .ash_pix img,
+    .s3 .s3_wrap .con .gim_pix img{
+        transform: translateY(80px);
+    }
+    .s3 .s3_wrap .con .item .col_box{
+        font-size: 12px;
+    }
+    .gim_sub .txt{
+        padding: 10px;
+    }
+    .gim_sub .txt h5{
+        font-size: 44px;
+    }
+}

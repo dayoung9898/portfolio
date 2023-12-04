@@ -1,0 +1,70 @@
+@media (min-width:1200px){
+    header .main_txt{
+        padding: 350px 0;
+    }
+    header .main_txt .txt{
+        width: 200px;
+    }
+    header .main_txt .txt h3{
+        font-size: 26px;
+    }
+    header .main_txt .txt p{
+        font-size: 18px;
+    }
+    header .h_wrap .tit,
+    header .h_wrap .my{
+        font-size: 26px;
+    }
+    header .h_wrap  .my p{
+        font-size: 18px;
+    }
+    .s1 .s1_wrap .pro{
+        margin: 0;
+    }
+    .s1 .s1_wrap .con{
+        margin: 0;
+    }
+    .s1 .s1_wrap .con h5{
+        font-size: 20px;
+    }
+    .s1 .s1_wrap .con .col_1 .pro_txt h3{
+        font-size: 20px;
+    }
+    .s1 .s1_wrap .con .col_1 .pro_txt h4{
+        font-size: 40px;
+    }
+    .s1 .s1_wrap .con .col_1 .info .inner p{
+        font-size: 20px;
+    }
+    .s1 .s1_wrap .con .col_2 .edu .item .box p{
+        font-size: 18px;
+    }
+    
+    .s2 .s2_wrap .wh_box h3{
+        font-size: 44px;
+        margin: 50px 0;
+    }
+    .s2 .s2_wrap .wh_box .key .box div{
+        font-size: 16px;
+    }
+    .s2{
+        padding-top: 0;
+    }
+    .s2 .s2_wrap .bl_box .txt p{
+        font-size: 18px;
+        line-height: 40px;
+    }
+    .s3 .s3_wrap .con .inner .min_txt{
+        font-size: 18px;
+    }
+    .s3 .s3_wrap .con .inner .in_txt{
+        font-size: 18px;
+    }
+    .gim_sub{
+        background-image: url(../imges/gimhae_sub_pc.png);
+        height: 1100px;
+    }
+    .gim_sub .txt h5{
+        font-size: 100px;
+    }
+}
